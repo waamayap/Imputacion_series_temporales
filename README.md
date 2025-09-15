@@ -15,6 +15,8 @@ Se evalúan enfoques estadísticos, de interpolación, machine learning y deep l
 - `hybrid_imputer.py` → Imputador híbrido que combina interpolación lineal (para huecos pequeños) y KNN (para huecos largos).
 - `benchmark.py` → Implementa `ConcreteBenchmark`, que inserta huecos artificiales, entrena imputadores y genera métricas y gráficos.
 - `main.py` → Script principal para ejecutar el benchmark completo desde línea de comandos.
+- 
+- `sdet_multivariable mensual - train_val_forescast_santiago_PM25.ipynb` → Notebook de **predicción multivariable** sobre PM2.5 en Santiago de Chile.
 
 ---
 
